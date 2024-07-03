@@ -37,9 +37,7 @@
                                                       ⬇️ Setup
 
                                                   
-- first open `install.bat`
-
-- open `builder.bat`
+- first open `install.exe`
 
 <div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="https://i.imgur.com/0l34TBS.png"></img></div>
 
@@ -87,4 +85,5 @@
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
-
+
+
